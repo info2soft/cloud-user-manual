@@ -1,6 +1,6 @@
 # Summary
 
-* [cloud-user-manual](README.md)
+* [i2Cloud云备份用户使用手册](README.md)
 * [i2Cloud简介](i2cloudjian_jie.md)
 * [账户管理](zhang_hu_guan_li/README.md)
   * [管理员开启注册功能](zhang_hu_guan_li/guan_li_yuan_kai_qi_zhu_ce_gong_neng.md)
@@ -23,3 +23,4 @@
 * [系统](xi_tong.md)
 * [日志](ri_zhi.md)
 * [技术支持](ji_zhu_zhi_chi.md)
+
