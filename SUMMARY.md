@@ -7,7 +7,7 @@
   * [运营商提供账户](zhang_hu_guan_li/yun_ying_shang_ti_gong_zhang_hu.md)
   * [订购服务](zhang_hu_guan_li/ding_gou_fu_wu.md)
 * [安装和卸载](an_zhuang_he_xie_zai/README.md)
-  * [客户端下载](ke_hu_duan_xia_zai.md)
+  * [客户端下载](an_zhuang_he_xie_zai/ke_hu_duan_xia_zai.md)
   * [I2node安装](an_zhuang_he_xie_zai/i2nodean_zhuang.md)
   * [软件卸载](an_zhuang_he_xie_zai/ruan_jian_xie_zai.md)
 * [灾备客户端数据到云端](zai_bei_ke_hu_duan_shu_ju_dao_yun_duan/README.md)
